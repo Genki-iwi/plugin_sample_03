@@ -71,6 +71,7 @@
   
   /* parallax window */
   .parallax-window {
+    height: 120vh;
     padding-top: 3rem;
     padding-right: 12%;
     padding-left: 12%;
